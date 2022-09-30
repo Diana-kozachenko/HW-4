@@ -1,12 +1,10 @@
 .holder .list + p {
     font-size: 24px;
 }
-.link4 {
-    color: red;
+a[href^="https"] {
+    color: red
 }
-.link5 {
-    color: red;
-}
+
 
 
 
